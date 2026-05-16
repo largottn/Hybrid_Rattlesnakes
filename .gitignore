@@ -1,0 +1,42 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editors
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Common bioinformatics intermediates (just in case)
+*.bam
+*.bai
+*.vcf
+*.vcf.gz
+*.vcf.gz.tbi
+*.vcf.gz.csi
+*.g.vcf.gz
+*.fastq.gz
+*.fq.gz
+*.fna
+*.fa
+*.fai
+*.dict
+
+# SLURM logs
+slurm-*.out
+*.slurm.out
+*.slurm.err
+logs/
+
+# Local config / scratch
+*.local
+*.tmp
+.env
