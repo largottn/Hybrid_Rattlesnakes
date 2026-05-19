@@ -126,5 +126,5 @@ This project is released under the MIT License. See [`LICENSE`](LICENSE) for det
 
 ## Contact
 
-Nicolas Largotta — largottn@kean.edu
+Nicolas Largotta — nicolaslargotta@icloud.com
 Levine Lab, Kean University
